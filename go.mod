@@ -1,4 +1,4 @@
-module github.com/kelaresg/go-skypeapi
+module github.com/Snowmanazz/go-skypeapi
 
 go 1.14
 
